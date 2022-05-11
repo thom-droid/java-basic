@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22dc031b-9d2d-4a38-935c-dfbdf77cf010" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/LocalClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/LocalClassMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/NestedStaticClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/NestedStaticClassMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/OuterClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/OuterClassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/DefaultConstructorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
