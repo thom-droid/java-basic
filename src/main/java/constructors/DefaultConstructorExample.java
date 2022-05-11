@@ -2,14 +2,15 @@ package constructors;
 
 public class DefaultConstructorExample {
 
-    private String name;
+    private static final String DEFAULT = "DEFAULT";
+    public static final String STRING_FROM_CONSTRUCTOR_EXAMPLE = "NO-ARGS";
+    private String thisIsTheLongestNameIEverCouldThinkOfForNow;
     private int value;
+    private boolean isAlive;
 
-    public DefaultConstructorExample(String name, int value) {
-        this.name = name;
-        this.value = value;
+    public void doSomething(String instruction) {
+        instruction = DEFAULT;
+        System.out.println(instruction);
     }
 
-    public DefaultConstructorExample() {
-    }
 }
