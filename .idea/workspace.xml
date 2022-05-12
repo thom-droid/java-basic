@@ -5,19 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22dc031b-9d2d-4a38-935c-dfbdf77cf010" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/constructors/ConstructorThisExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/constructors/ConstructorThisMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/BothImplementingAndExtendingClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/ThisIsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/ThisIsSuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Drum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/InstrumentCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/InstrumentCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Instruments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance/Instruments.java" afterDir="false" />
+>>>>>>> ff808c4d8d038339e7a2aec1e007fd77c0da267e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,6 +62,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -60,6 +76,18 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ConstructorThisMain">
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/banghs/workspace/projects/java-basic",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+>>>>>>> ff808c4d8d038339e7a2aec1e007fd77c0da267e
     <configuration name="ConstructorMain" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="constructors.ConstructorMain" />
       <module name="java-basic" />
