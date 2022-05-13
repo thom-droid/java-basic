@@ -1,4 +1,4 @@
-package interfaces;
+package polymorphism.interfaces;
 
 public interface ThisIsInterface {
 

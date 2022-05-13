@@ -1,4 +1,4 @@
-package interfaces;
+package polymorphism.interfaces;
 
 public class BothImplementingAndExtendingClass extends ThisIsSuperClass implements ThisIsInterface {
 
