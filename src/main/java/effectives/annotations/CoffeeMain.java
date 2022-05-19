@@ -1,8 +1,16 @@
-package effectives.enums;
+package effectives.annotations;
+
+import effectives.enums.Coffees;
 
 public class CoffeeMain {
 
     public static void main(String[] args) {
+        Coffee coffee = CoffeeUtil.createCoffeeFromMetaData(Coffee.class);
+        assert coffee != null;
+        System.out.println(coffee);
+    }
+
+    private static void test() {
         Coffees espresso1 = Coffees.ESPRESSO;
         Coffees espresso2 = Coffees.ESPRESSO;
 
