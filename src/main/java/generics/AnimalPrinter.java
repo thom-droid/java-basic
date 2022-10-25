@@ -1,4 +1,4 @@
-package colletions.generics;
+package generics;
 
 public class AnimalPrinter<T extends Animal> {
 
