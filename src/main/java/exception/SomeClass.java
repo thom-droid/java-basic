@@ -1,7 +1,5 @@
 package exception;
 
-import com.sun.istack.internal.NotNull;
-
 public class SomeClass {
 
     private String name;
