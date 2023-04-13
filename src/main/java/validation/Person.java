@@ -1,5 +1,6 @@
 package validation;
 
 
-public class Person {
+class Person {
+
 }
